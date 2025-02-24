@@ -1,0 +1,2 @@
+Input ur cc list in cc.txt,
+run "python bimba.py"
